@@ -155,3 +155,5 @@
 // obj2.name = "Rohan";
 
 // console.log(obj);
+
+// All About Day-2
